@@ -1,4 +1,5 @@
 # Equipe: Ana Caroline, Luciano, Matheus, Murilo e Bian 
+
 # INSTRUÇÃO PRÁTICA
 
 Objetivos: Aplicar os conceitos de programação estruturada, modularização, reutilização de código e organização de programas, utilizando structs e funções em C++. Além disso, a atividade incentiva a prática de resolução de problemas, o desenvolvimento da lógica de
@@ -6,7 +7,7 @@ programação e a colaboração em grupo, preparando-os para uma transição mai
 
 # Drescrição da atividade
 
-Exercício 1: Criamos um repositório para esta atividade.
+**Exercício 1:** Criamos um repositório para esta atividade.
 
 ● Nossa equipe criou um repositório no GitHub para esta atividade. O repositório contém:
 
@@ -21,14 +22,14 @@ Para realizar essa atividade, cada um de nós, membros da equipe, criou um branc
 ● Lembre-se de utilizar o fórum do Moodle para tirar suas dúvidas sobre os exercícios.
 
 # Parte Individual:
-Exercício 1: Reutilização de Funções
+**Exercício 1:** Reutilização de Funções
 
 • Escreva uma função em C++ que calcule o fatorial de um número inteiro.
 
 • Crie um programa que utilize essa função para calcular e exibir o fatorial de
 três números diferentes.
 
-Exercício 2: Modularização
+**Exercício 2:** Modularização
 
 • Implemente um programa que converta uma temperatura de Celsius para
 Fahrenheit.
@@ -37,7 +38,8 @@ Fahrenheit.
 função.
 
 • Teste a função de conversão com diferentes valores.
-Exercício 3: Estruturas de Dados com Structs
+
+**Exercício 3:** Estruturas de Dados com Structs
 
 • Crie uma struct chamada "Ponto" que represente as coordenadas (x, y) de um
 ponto no plano.
@@ -49,7 +51,7 @@ dados.
 
 # Parte em Grupos (até 5 pessoas por grupo):
 
-Exercício 4: Organização de Código
+**Exercício 4:** Organização de Código
 
 • Em grupo, escolham uma funcionalidade simples para um programa (por
 exemplo, uma calculadora de operações matemáticas).
@@ -61,7 +63,8 @@ grupo a responsabilidade por uma função específica.
 que utilize todas elas.
 
 • Usem os recursos do Git para dividir e juntar os códigos.
-Exercício 5: Abstração e Modularização
+
+**Exercício 5:** Abstração e Modularização
 
 • Em grupo, escolham um objeto do mundo real (por exemplo, um carro) e
 identifiquem suas características e comportamentos.
